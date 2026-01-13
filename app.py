@@ -41,7 +41,7 @@ def get_physics_features(file_path):
         if len(y) == 0:
             return None, "Audio file is empty."
 
-        noise_amp = 0.001 * np.random.uniform() * np.amax(y)
+        noise_amp = 0.0001 * np.random.uniform() * np.amax(y)
         y = y + noise_amp * np.random.normal(size=y.shape[0])
 
         rolloff = np.mean(librosa.feature.spectral_rolloff(y=y, sr=sr, roll_percent=0.85))
@@ -152,4 +152,5 @@ def index():
                            explanation=explanation_text)
 
 if __name__ == '__main__':
+
     app.run(debug=True)
