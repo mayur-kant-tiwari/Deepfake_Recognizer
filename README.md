@@ -27,7 +27,7 @@ With the rise of Generative AI, cloning a human voice takes just 3 seconds. Trad
 * **Real-Time Analysis:** Instantly processes uploaded WAV, MP3, and M4A files.
 * **Hybrid Detection Engine:** Uses Librosa to extract MFCCs, Zero-Crossing Rate (ZCR), and Spectral Rolloff.
 * **Phone-Ready:** Includes a custom "Anti-Denoising" algorithm (Dithering) to prevent false positives from modern phone noise cancellation.
-* **Strict Confidence Logic:** The AI only flags audio as "Real" if it is >80% confident, reducing dangerous false negatives.
+* **Strict Confidence Logic:** The AI only flags audio as "Real" if it is >70% confident, reducing dangerous false negatives.
 
 ---
 
