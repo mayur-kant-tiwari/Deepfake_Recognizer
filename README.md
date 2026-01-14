@@ -9,7 +9,7 @@
 ## Demo & Deployment
 
 ### Live Web App
-**[Click Here to Try the Detector (Hugging Face / Render)]**
+**[Click Here to Try the Detector (Hugging Face)]**
 https://agrim-007-deep-fake-recogniser.hf.space
 
 ### Project Walkthrough
