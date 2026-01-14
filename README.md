@@ -1,30 +1,20 @@
-# Deepfake_Recognizer
-* Mayur: Frontend Development & UI/UX Design.
-* Shreeya: Backend Architecture & API Integration.
-* Agrim & Vipul: AI Model Training, Feature Engineering, & Dataset Curation.
-* Agrim:Cloud Deployment (Docker/Hugging Face) & DevOps.
-* Suraj. Idea & Presentation
-
-
- Working Model : https://agrim-007-deep-fake-recogniser.hf.space/
-  
-# Deepfake Audio Sentinel (24h Hackathon Submission)
+# Deepfake Audio Sentinel
 
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Framework](https://img.shields.io/badge/Framework-Flask-green)
 ![Status](https://img.shields.io/badge/Status-Deployed-brightgreen)
-![Timeline](https://img.shields.io/badge/Time-24%20Hours-orange)
 
 ---
 
 ## Demo & Deployment
 
 ### Live Web App
-**[Click Here to Try the Detector (Hugging Face / Render)]** *(Replace this text with your actual URL)*
+**[Click Here to Try the Detector (Hugging Face / Render)]**
+https://agrim-007-deep-fake-recogniser.hf.space
 
 ### Project Walkthrough
-**[Watch the Demo Video]** *(Tip: You can drag-and-drop your MP4 video file right here in the GitHub editor to embed a player!)*
-
+**[Watch the Demo Video]**
+https://youtu.be/0YZOYuAeTuc
 ---
 
 ## The Problem
@@ -65,7 +55,7 @@ Unlike basic black-box models, our system looks for specific digital artifacts:
 
 ## Team & Contributions
 
-This project was built collaboratively in under 24 hours:
+The team behind this project:
 
 * **Mayur:** Frontend Development & UI/UX Design.
 * **Shreeya:** Backend Architecture & API Integration.
